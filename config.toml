@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'pt-br'
+defaultContentLanguage = "pt-br"
+title = 'Awesome OCaml'
+theme = 'hugo-book'
