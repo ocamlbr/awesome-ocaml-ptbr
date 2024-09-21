@@ -49,6 +49,9 @@
 ## Processamento de Dados
 - [csvtool](https://github.com/Chris00/ocaml-csv) - Uma biblioteca e ferramenta de linha de comando para manipulação de arquivos CSV.
 
+## Sistemas Operacionais e Arquivos
+- [BOS](https://erratique.ch/software/bos) - Uma biblioteca para interação com o Sistema Operacional (incluindo manipulação de arquivos) via OCaml.
+
 ## Redes e Protocolos
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) - Implementação TLS em OCaml puro.
 
