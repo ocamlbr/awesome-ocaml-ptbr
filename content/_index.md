@@ -13,6 +13,7 @@ description: "Uma lista curada de bibliotecas e ferramentas úteis em OCaml"
 
 ## Desenvolvimento Web
 - [Dream](https://aantron.github.io/dream/) - Um framework web fullstack com OCaml.
+- [Opium](https://github.com/rgrinberg/opium) - Framework Web Sinatra-like para OCaml.
 - [Lwt](https://github.com/ocsigen/lwt) - Uma biblioteca de programação concorrente.
 - [Cohttp](https://github.com/mirage/ocaml-cohttp) - Uma biblioteca HTTP para OCaml.
 - [Piaf](https://github.com/anmonteiro/piaf) - Um cliente HTTP/1.X e HTTP/2 totalmente assíncrono para OCaml.
