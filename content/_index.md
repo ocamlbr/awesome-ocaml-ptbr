@@ -46,6 +46,7 @@ description: "Uma lista curada de bibliotecas e ferramentas úteis em OCaml"
 ## Banco de Dados
 - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Uma biblioteca de abstração para acesso a banco de dados relacionais com suporte a MariaDB, PostgreSQL e SQLite3.
 - [sqlite3](https://github.com/mmottl/sqlite3-ocaml) - Bindings OCaml para SQLite3.
+- [Irmin](https://irmin.org/) - Uma biblioteca de banco de dados distribuído que segue os princípios do Git.
 
 ## Criptografia e Segurança
 - [Mirage-crypto](https://github.com/mirage/mirage-crypto) - Uma biblioteca de criptografia usada no MirageOS.
@@ -56,9 +57,7 @@ description: "Uma lista curada de bibliotecas e ferramentas úteis em OCaml"
 ## Redes e Protocolos
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) - Implementação TLS em OCaml puro.
 
-## Sistemas Distribuídos
-- [Irmin](https://github.com/mirage/irmin) - Uma biblioteca de banco de dados distribuído que segue os princípios do Git.
-
 ## Interoperabilidade com JavaScript
 - [Melange](https://github.com/melange-re/melange) - Um backend para o compilador OCaml que emite JavaScript legível e eficiente.
+- [mlx](https://github.com/ocaml-mlx/mlx) - Uma biblioteca que adiciona a uso de JSX em OCaml permitindo uma sintaxe agradável para React em OCaml puro, compilado com Melange.
 - [js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compilador de OCaml para JavaScript.
