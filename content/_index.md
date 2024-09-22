@@ -20,15 +20,15 @@ description: "Uma lista curada de bibliotecas e ferramentas úteis em OCaml"
 - [ocaml.nvim](https://github.com/tjdevries/ocaml.nvim) - Ferramentas OCaml para Neovim.
 
 ## Programação Paralela e Concorrente
-- [Eio](https://github.com/ocaml-multicore/eio) - Bibliota para programação concorrente baseada em Efeitos. `OCaml 5.0+` 
-- [Lwt](https://github.com/ocsigen/lwt) - Biblioteca de programação concorrente.
+- [Eio](https://github.com/ocaml-multicore/eio) - Bibliota para programação concorrente baseada em Efeitos. `OCaml 5.1+` 
+- [Lwt](https://github.com/ocsigen/lwt) - Biblioteca de programação concorrente baseada em promises/futures.
 - [Async](https://github.com/janestreet/async) - Biblioteca para programação assíncrona. `Jane Street`
 
 ## Frameworks e Bibliotecas Web
 - [Dream](https://aantron.github.io/dream/) - Framework web fullstack para OCaml.
 - [Opium](https://github.com/rgrinberg/opium) - Framework Web Sinatra-like para OCaml.
 - [Cohttp](https://github.com/mirage/ocaml-cohttp) - Biblioteca HTTP para OCaml.
-- [Piaf](https://github.com/anmonteiro/piaf) - Cliente HTTP/1.X e HTTP/2 totalmente assíncrono para OCaml. `OCaml 5.0+` 
+- [Piaf](https://github.com/anmonteiro/piaf) - Cliente HTTP/1.X e HTTP/2 totalmente assíncrono para OCaml. `OCaml 5.1+` 
 
 ## Desenvolvimento Frontend
 - [Melange](https://github.com/melange-re/melange) - Backend para o compilador OCaml que emite JavaScript legível e eficiente.
