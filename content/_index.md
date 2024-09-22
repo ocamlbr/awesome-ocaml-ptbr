@@ -11,6 +11,10 @@ description: "Uma lista curada de bibliotecas e ferramentas úteis em OCaml"
 - [Dune](https://dune.build) - Sistema de build para OCaml.
 - [Opam](https://opam.ocaml.org) - Gerenciador de Pacotes OCaml.
 
+## Ferramentas de Desenvolvimento
+- [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - Servidor de Protocolo de Linguagem OCaml (LSP).
+- [Merlin](https://github.com/ocaml/merlin) - Assistente de contexto para editores de OCaml.
+
 ## Desenvolvimento Web
 - [Dream](https://aantron.github.io/dream/) - Um framework web fullstack com OCaml.
 - [Opium](https://github.com/rgrinberg/opium) - Framework Web Sinatra-like para OCaml.
@@ -23,6 +27,14 @@ description: "Uma lista curada de bibliotecas e ferramentas úteis em OCaml"
 - [ocaml-re](https://github.com/ocaml/ocaml-re) - Biblioteca de expressões regulares para OCaml.
 - [Angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators.
 - [ppxlib](https://github.com/ocaml-ppx/ppxlib) - Biblioteca base para extensões de sintaxe em OCaml (PPX).
+
+## PPXs
+- [ppx_deriving](https://github.com/ocaml-ppx/ppx_deriving) - Extensão de sintaxe para derivar automaticamente implementações de tipos e funções.
+- [ppx_let](https://github.com/janestreet/ppx_let) - Sintaxe de açúcar para monads em OCaml.
+- [ppx_import](https://github.com/ocaml-ppx/ppx_import) - Uma extensão de sintaxe para importar assinaturas de módulos.
+- [ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv) - Gera código para converter valores OCaml de/para S-expressions.
+- [ppx_fields_conv](https://github.com/janestreet/ppx_fields_conv) - Gera código para acessar e iterar sobre campos de registros.
+- [ppx_custom_printf](https://github.com/janestreet/ppx_custom_printf) - Extensão para formatar strings com sintaxe estendida.
 
 ## Testes e Qualidade de Código
 - [Alcotest](https://github.com/mirage/alcotest) - Um framework de testes de unidade leve e com suporte a cores.
@@ -65,3 +77,23 @@ description: "Uma lista curada de bibliotecas e ferramentas úteis em OCaml"
 - [Melange](https://github.com/melange-re/melange) - Um backend para o compilador OCaml que emite JavaScript legível e eficiente.
 - [mlx](https://github.com/ocaml-mlx/mlx) - Uma biblioteca que adiciona a uso de JSX em OCaml permitindo uma sintaxe agradável para React em OCaml puro, compilado com Melange.
 - [js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compilador de OCaml para JavaScript.
+
+## Bibliotecas Open Source da Jane Street
+
+> A Jane Street é uma empresa que contribui significativamente para o ecossistema OCaml. As bibliotecas que eles publicam tem uma grande sinergia entre si e possuem padrões próprios, mas ainda são muito úteis em projetos gerais.
+
+- [Core](https://github.com/janestreet/core) - Uma biblioteca alternativa à biblioteca padrão do OCaml.
+- [Async](https://github.com/janestreet/async) - Uma biblioteca para programação assíncrona.
+- [Base](https://github.com/janestreet/base) - Uma biblioteca base completa para OCaml.
+- [Incremental](https://github.com/janestreet/incremental) - Uma biblioteca para computações incrementais.
+- [Bonsai](https://github.com/janestreet/bonsai) - Uma biblioteca para criar interfaces de usuário web reativas.
+- [Ppx_jane](https://github.com/janestreet/ppx_jane) - Uma coleção de extensões de sintaxe ppx comumente usadas.
+- [Incr_dom](https://github.com/janestreet/incr_dom) - Uma biblioteca para construir aplicações web dinâmicas usando OCaml.
+- [Textutils](https://github.com/janestreet/textutils) - Ferramentas de texto e formatação.
+- [Sexplib](https://github.com/janestreet/sexplib) - Serialização e desserialização de S-expressions.
+- [Bin_prot](https://github.com/janestreet/bin_prot) - Uma biblioteca para serialização binária rápida.
+- [Fieldslib](https://github.com/janestreet/fieldslib) - Sintaxe e funções para trabalhar com campos de registros.
+- [Typerep](https://github.com/janestreet/typerep) - Representações de tipos em tempo de execução.
+- [Variantslib](https://github.com/janestreet/variantslib) - Funções para trabalhar com variantes.
+- [Parsexp](https://github.com/janestreet/parsexp) - Parsing de S-expressions.
+- [Ppx_let](https://github.com/janestreet/ppx_let) - Uma extensão de sintaxe para expressões let generalizadas.
