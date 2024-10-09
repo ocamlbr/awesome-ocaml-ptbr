@@ -86,6 +86,7 @@
 ## Criptografia e Segurança
 - [Mirage-crypto](https://github.com/mirage/mirage-crypto) - Biblioteca de criptografia usada no MirageOS.
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) - Implementação TLS em OCaml puro.
+- [eqaf](https://github.com/mirage/eqaf): Função de igualdade constante, tem como objetivo evitar time attacks, onde um atacante tenta medir o tempo de execução para aprender sobre os conteúdos dos operandos.
 
 ## Processamento de Dados e Texto
 - [csvtool](https://github.com/Chris00/ocaml-csv) - Biblioteca e ferramenta de linha de comando para manipulação de arquivos CSV.
